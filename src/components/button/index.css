@@ -1,0 +1,15 @@
+.landing-button {
+    color: #ffffff;
+    background-color: #00E6C9;
+    width: 170px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 14px;
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    cursor: pointer;
+}
+
+.landing-button:hover {
+    background-color: #00aa89;
+}

@@ -1,0 +1,29 @@
+.landing-input-text {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 11px;
+    border: 0;
+    border-bottom: 4px solid #212121;
+    font-size: 18px;
+    letter-spacing: 2px;
+    outline: none;
+}
+
+.landing-input-text--error {
+    border-bottom: 4px solid #FF1E02;    
+}
+
+.landing-input-wrapper {
+    height: 124px;
+}
+
+.landing-input-feedback {
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-family: 'Josefin Sans';
+    padding: 0 11px;
+}
+
+.landing-input-text::placeholder {
+    color: #a2a2a2;
+}
